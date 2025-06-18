@@ -1,0 +1,45 @@
+{
+    "form_serial_number": "JG-2025-008",
+    "project_name": "清代古宅修缮工程",
+    "record_date": "2025年3月15日",
+    "component_usage_records": [
+        {
+            "index": 1,
+            "category": "屋面构件",
+            "name": "青瓦",
+            "id_or_quantity": "112片",
+            "specification": "300×200×20mm",
+            "usage_location": "正房屋面西侧",
+            "photo_reference": "IMG_001"
+        },
+        {
+            "index": 2,
+            "category": "木构件",
+            "name": "梁",
+            "id_or_quantity": "B-17",
+            "specification": "长5.2米，截面300×400mm",
+            "usage_location": "东厢房屋架",
+            "photo_reference": "IMG_002"
+        },
+        {
+            "index": 3,
+            "category": "门窗构件",
+            "name": "雕花门扇",
+            "id_or_quantity": "2扇",
+            "specification": "每扇900×2100mm",
+            "usage_location": "垂花门",
+            "photo_reference": "IMG_003"
+        },
+        {
+            "index": 4,
+            "category": "石构件",
+            "name": "石鼓墩",
+            "id_or_quantity": "4个",
+            "specification": "直径400mm，高450mm",
+            "usage_location": "前檐柱基",
+            "photo_reference": "IMG_004"
+        }
+    ],
+    "supervision_signature": "李监理",
+    "construction_signature": "赵工长"
+}
